@@ -1,6 +1,6 @@
 # teamTwoGame
 
-The First version fo the monopoly game code. Includes:
+The First version of the monopoly game code. Includes:
 
 1. working node pathway for player movement around board
 2. 2 Dice functions that rolls 1 - 12 
