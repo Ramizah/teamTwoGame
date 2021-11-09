@@ -15,7 +15,7 @@ Also The code needs muliplayer functionality so thats on the todo list.
 Other things:
 
 1. 3D physics dice
-2. Doubles roll and maybe when roll double twice = goToPrison functuon
+2. Doubles roll and maybe when roll double twice = goToPrison function
 3. A log in and setup page
 4. Nice background and imported designs and stuff
 
