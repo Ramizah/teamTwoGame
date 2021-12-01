@@ -1,5 +1,7 @@
 # teamTwoGame
 
+PHOTON SERVER IS ACTING A BIT STRANGE: ADDED A RECONNECT FUNCTION BECAUSE IT WAS MESSING UP. YOU MIGHT HAVE TO CLICK THE CREATE OR JOIN A FEW TIMES IF IT DOESN'T WORK AT FIRST. FUCK KNOWS WHATS HAPPENING :(
+
 The third version of the monopoly game code. Includes:
 
 1. 2 player moving around board
@@ -11,6 +13,7 @@ The third version of the monopoly game code. Includes:
 7. Lobby, loading and game screen
 
 IMPORTANT: You'll need unity to run the code, just import the package once you've opened a project. You will also need virtual studio code to access the C# files
+
 
 The dice in the center of the board is clickable and moves each player. It will not be accessible to a specific player until the other has moved.
 
