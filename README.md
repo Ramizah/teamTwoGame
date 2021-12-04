@@ -1,8 +1,8 @@
 # teamTwoGame
 
-PHOTON SERVER IS ACTING A BIT STRANGE: ADDED A RECONNECT FUNCTION BECAUSE IT WAS MESSING UP. YOU MIGHT HAVE TO CLICK THE CREATE OR JOIN A FEW TIMES IF IT DOESN'T WORK AT FIRST. FUCK KNOWS WHATS HAPPENING :(
+Photon Server is now more stable. Hopefully
 
-The third version of the monopoly game code. Includes:
+This is Verson 3.2 of monopoly:
 
 1. 2 player moving around board
 2. A turn function that waits till the other player has moved
@@ -11,6 +11,15 @@ The third version of the monopoly game code. Includes:
 5. A passGo function
 6. Multiplayer functionality
 7. Lobby, loading and game screen
+
+QUALITY OF LIFE CHANGES:
+
+1.Added function that does not allow turn until all players are in room
+2.Added a leave game function that sends player back to lobby. However,have not yet implemented rejoin.
+3. Added funciton that prevents user from making same room name HOWEVER NEED TO STOP ERROR MESSAGES FROM SHOWING
+4. Added Internet checks for loading and Lobby screen that debug print status. For players who are wondering whether they have internet
+5. Added a disconnect reconnect function in case join or create does not work first time
+
 
 IMPORTANT: You'll need unity to run the code, just import the package once you've opened a project. You will also need virtual studio code to access the C# files
 
