@@ -24,9 +24,6 @@ QUALITY OF LIFE CHANGES:
 IMPORTANT: You'll need unity to run the code, just import the package once you've opened a project. You will also need virtual studio code to access the C# files
 
 
-The dice in the center of the board is clickable and moves each player. It will not be accessible to a specific player until the other has moved.
-
-
 Other things to work on:
 
 1. 3D physics dice and code
