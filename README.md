@@ -2,15 +2,18 @@
 
 Photon Server is now more stable. Hopefully
 
-This is Verson 3.2 of monopoly:
+Latest Verson 3.3 of monopoly:
 
 1. 2 player moving around board
 2. A turn function that waits till the other player has moved
-3. A function that automatically buys property of player who lands on it, placing either a red or blue circle to indicate who landed
+3. A function that Allows players to buys property of player who lands on it, placing either a red or blue circle to indicate who landed
 4. UI texts to tell the players their money and who brought property ect..
 5. A passGo function
 6. Multiplayer functionality
 7. Lobby, loading and game screen
+8. Ui and Function to let player choose whether they wish to buy property
+9. UI showing street name landed on, its cost and colour set
+10. Function that causes player who lands on opposing property to pay specified rent
 
 QUALITY OF LIFE CHANGES:
 
